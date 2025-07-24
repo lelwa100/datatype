@@ -1,4 +1,4 @@
-// This example is for calculating an area
+// This example is for calculating an area (L x B)
 const prompt = require('prompt-sync')();
 
 let x = prompt("Enter length: ");
